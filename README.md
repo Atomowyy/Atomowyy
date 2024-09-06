@@ -1,4 +1,9 @@
-## Hi there 👋
+# Currently working on:
+<ol>
+  <li>[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)</li>
+
+</ol>
+
 
 <!--
 **Atomowyy/Atomowyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I'm wondering why have you downloaded this file, are you looking for something?
 -->
