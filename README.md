@@ -1,7 +1,5 @@
 # Currently working on:
-<ol>
-  <li> **[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)** </li>
-</ol>
+# - **[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)**
 
 
 <!--
