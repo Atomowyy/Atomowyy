@@ -1,3 +1,5 @@
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797" style='border:none;'></iframe>
+
 # Currently working on:
 ## - **[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)**
 ## - **[Memoriser Offline Desktop Version](https://github.com/Atomowyy/Memoriser_Desktop_Offline_Version)**
