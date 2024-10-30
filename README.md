@@ -1,4 +1,4 @@
-[](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797)
+!(https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797)
 
 
 # Currently working on:
