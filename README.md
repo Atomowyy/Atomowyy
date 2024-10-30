@@ -1,5 +1,4 @@
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797)
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Hunt3rr.png" alt="Your Image Badge" />
 
 # Currently working on:
 ## - **[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)**
