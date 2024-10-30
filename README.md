@@ -1,13 +1,5 @@
+[](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797)
 
-<div>
-  <iframe id="Tryhackme"
-      title="Tryhackme"
-      width="300"
-      height="200"
-      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1125797"
-      style='border:none;'>
-  </iframe>
-</div>
 
 # Currently working on:
 ## - **[picoCTF challenges](https://github.com/Atomowyy/picoCTF-writeup)**
